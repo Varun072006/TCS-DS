@@ -68,24 +68,24 @@ The dataset contains 2000+ simulated transactions (full dataset 10,000+ records)
 - **Heatmap:** Product category vs Payment mode showing total sales  
 
 ## Output Screenshots
-- **Age Distribution:
-- ** ![Age Distribution](Images/Age_distribution.png)  
-- **Gender Distribution:
-- ** ![Gender Distribution](Images/Gender_distribution.png)  
-- **Top 10 Cities by Customers:
-- ** ![Top Cities](Images/Top_10_cities.png)  
-- **Total Sales by Product Category:
-- ** ![Sales by Category](Images/total_sales.png)  
-- **Monthly Sales Trend:
-- ** ![Monthly Sales](Images/month_sales_trend.png)  
-- **Payment Mode Usage:
-- ** ![Payment Mode](Images/payment_mode.png)  
-- **Average Spend per Age Group:
-- ** ![Avg Spend](Images/average_spend.png)  
-- **City-wise Revenue Contribution:
-- ** ![City Revenue](Images/revenue.png)  
-- **Heatmap Product vs Payment Mode:
-- ** ![Heatmap](Images/Heatmap.png)  
+- **Age Distribution:**
+- ![Age Distribution](Images/Age_distribution.png)  
+- **Gender Distribution:**
+- ![Gender Distribution](Images/Gender_distribution.png)  
+- **Top 10 Cities by Customers:**
+- ![Top Cities](Images/Top_10_cities.png)  
+- **Total Sales by Product Category:**
+- ![Sales by Category](Images/total_sales.png)  
+- **Monthly Sales Trend:**
+- ![Monthly Sales](Images/month_sales_trend.png)  
+- **Payment Mode Usage:**
+- ![Payment Mode](Images/payment_mode.png)  
+- **Average Spend per Age Group:**
+- ![Avg Spend](Images/average_spend.png)  
+- **City-wise Revenue Contribution:**
+- ![City Revenue](Images/revenue.png)  
+- **Heatmap Product vs Payment Mode:**
+- ![Heatmap](Images/Heatmap.png)  
 
 ## Conclusion
 This project demonstrates end-to-end preprocessing and visualization of retail transaction data. By cleaning and transforming the raw dataset, generating meaningful visualizations, and extracting advanced insights, we can:
